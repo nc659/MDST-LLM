@@ -1,0 +1,15 @@
+openai
+pandas
+regex
+numpy
+scipy
+gensim
+scikit-learn
+matplotlib
+tiktoken
+langchain
+faiss-cpu
+pypdf
+llama-index
+python-dotenv
+dateparser
