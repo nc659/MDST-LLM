@@ -13,3 +13,4 @@ pypdf
 llama-index
 python-dotenv
 dateparser
+streamlit
